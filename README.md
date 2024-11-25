@@ -1,4 +1,4 @@
-EduFlex
+#EduFlex
 EduFlex is a school management system developed using ASP.NET 
 Core with the MVC (Model-View-Controller) framework. It is a web-
 based platform specifically designed to optimize and simplify various 
